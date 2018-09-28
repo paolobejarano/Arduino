@@ -41,4 +41,8 @@ void setup() {
 }
 
 void loop() {
+  //Ejemplo para hacer avanzar el carro por 1 segundo
+  avanzar();
+  delay(1000);
+  detener();
 }
